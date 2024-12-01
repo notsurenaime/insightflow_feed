@@ -1,6 +1,8 @@
-{
-  "category": "Did you know?",
-  "title": "dis you know something?",
-  "content": "here is something",
-  "source": "example"
-}
+[
+  {
+    "category": "Did you know?",
+    "title": "did you know that?",
+    "content": "no i didnt",
+    "source": "lol"
+  }
+]

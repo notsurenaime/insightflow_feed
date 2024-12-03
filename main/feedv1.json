@@ -5,5 +5,16 @@
     "content": "I love Fabiane",
     "source": "me",
     "id": 1
+  },
+  {
+    "category": "Quick Quiz",
+    "question": "How are you doing?",
+    "options": {
+      "option1": "1",
+      "option2": "2",
+      "option3": "3"
+    },
+    "correct_option": null,
+    "id": 2
   }
 ]

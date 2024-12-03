@@ -16,16 +16,5 @@
     },
     "correct_option": null,
     "id": 2
-  },
-  {
-    "category": "Quick Quiz",
-    "question": "?",
-    "options": {
-      "option1": "1",
-      "option2": "2",
-      "option3": "3"
-    },
-    "correct_option": null,
-    "id": 3
   }
 ]

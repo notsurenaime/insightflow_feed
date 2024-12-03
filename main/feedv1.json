@@ -1,1 +1,13 @@
-
+[
+  {
+    "category": "Quick Quiz",
+    "question": "Whats the least populated country?",
+    "options": {
+      "option1": "Nauru",
+      "option2": "Vatican City",
+      "option3": "Tuvalu"
+    },
+    "correct_option": "option2",
+    "id": 1
+  }
+]

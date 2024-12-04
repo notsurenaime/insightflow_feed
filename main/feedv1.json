@@ -50,5 +50,17 @@
     "source": "The Fact Site",
     "timestamp": "2024-12-04 22:07",
     "id": 6
+  },
+  {
+    "category": "Quick Quiz",
+    "question": "Which country has more than 8,000 islands?",
+    "options": {
+      "option1": "Philippines",
+      "option2": "Indonesia",
+      "option3": "Sweden"
+    },
+    "correct_option": "option3",
+    "timestamp": "2024-12-04 22:17",
+    "id": 7
   }
 ]

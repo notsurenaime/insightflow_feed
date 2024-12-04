@@ -34,5 +34,13 @@
     "source": "National Geographic",
     "timestamp": "2024-12-04 16:30",
     "id": 4
+  },
+  {
+    "category": "Behind the Scenes",
+    "title": "\u201cPotentially dangerous\u201d: Two huge asteroids are racing past Earth today",
+    "content": "Two large asteroids, 447755 (2007 JX2) and 2020 XR, are <b> set to pass by Earth in the coming days </b>. Both, <b> from the asteroid belt between Mars and Jupiter </b>, are roughly 380 and 365 meters in diameter, <b> similar to the size of the Empire State Building </b>. 2007 JX2 passes on December 3rd at 5.5 million kilometers, while 2020 XR follows on December 4th at 2.2 million kilometers. <b> Classified as \"potentially dangerous\" by NASA </b>, these objects are at least 140 meters wide and come within 7.5 million kilometers of Earth. NASA tracks around 36,000 near-Earth objects, 2,350 of which are deemed potentially hazardous.",
+    "source": "focus.de",
+    "timestamp": "2024-12-04 19:40",
+    "id": 5
   }
 ]

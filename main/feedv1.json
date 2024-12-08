@@ -102,5 +102,17 @@
     "source": "Insight Flow Team",
     "timestamp": "2024-12-08 19:55",
     "id": 12
+  },
+  {
+    "category": "Quick Quiz",
+    "question": "Which of these creatures can survive in space?",
+    "options": {
+      "option1": "Tardigrades (Water Bears)",
+      "option2": "Jellyfish",
+      "option3": "Cockroaches"
+    },
+    "correct_option": "option1",
+    "timestamp": "2024-12-08 20:05",
+    "id": 13
   }
 ]
